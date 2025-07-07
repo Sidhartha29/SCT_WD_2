@@ -33,7 +33,7 @@ This is a simple yet interactive **Stopwatch Web Application** built using **HTM
 ---
 ## 🔗 Live Demo
 
-👉 Click here to try the Live Stopwatch web application(https://stopwatch29.netlify.app/)
+👉 [Click here to try the Live Stopwatch web application](https://stopwatch29.netlify.app/)
 
 ---
 
