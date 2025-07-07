@@ -1,5 +1,4 @@
-# SCT_WD_2
-# Stpwatch ⏱️Web Application
+# Stopwatch ⏱️Web Application
 
 This is a simple yet interactive **Stopwatch Web Application** built using **HTML, CSS, and JavaScript**.  
 ---
